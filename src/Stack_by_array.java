@@ -29,7 +29,7 @@ public class Stack_by_array {
             return true;
 
         }
-        return false;
+//        return false;
     }
 
 
