@@ -3,13 +3,13 @@ public class Double_linked_list {
         Node next;
         Node previous;
         int data;
-        Node(int data){
-            this.data=data;
-            this.previous=null;
-            this.next=null;
-        }
-
-    }
+//        Node(int data){
+//            this.data=data;
+//            this.previous=null;
+//            this.next=null;
+//        }
+//
+//    }
     Node head=null;
     Node tail=null;
     void Insert(int data){
