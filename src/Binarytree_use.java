@@ -15,10 +15,10 @@ public class Binarytree_use {
         root = new Binarytreenode<>(data);
 
 
-//        System.out.println("Enter the left for" + data);
+        System.out.println("Enter the left for" + data);
         root.left = input();
 
-//        System.out.println("Enter the right for " + data);
+        System.out.println("Enter the right for " + data);
         root.right = input();
         return root;
     }
